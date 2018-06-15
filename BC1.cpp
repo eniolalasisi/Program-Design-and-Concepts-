@@ -1,3 +1,6 @@
+
+//This program follows the bullls and cows game algorithm 
+
 #include <iostream> 
 #include <cmath>
 #include <vector>
